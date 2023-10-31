@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\bin\Debug\net5.0\PassportPrice.exe
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\bin\Debug\net5.0\PassportPrice.deps.json
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\bin\Debug\net5.0\PassportPrice.runtimeconfig.json
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\bin\Debug\net5.0\PassportPrice.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\bin\Debug\net5.0\PassportPrice.dll
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\bin\Debug\net5.0\PassportPrice.pdb
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\obj\Debug\net5.0\PassportPrice.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\obj\Debug\net5.0\PassportPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\obj\Debug\net5.0\PassportPrice.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\obj\Debug\net5.0\PassportPrice.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\obj\Debug\net5.0\PassportPrice.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\obj\Debug\net5.0\PassportPrice.dll
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\obj\Debug\net5.0\refint\PassportPrice.dll
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\obj\Debug\net5.0\PassportPrice.pdb
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\obj\Debug\net5.0\PassportPrice.genruntimeconfig.cache
+C:\Users\Nasko\source\repos\Изпитни задачи за проверки 2\PassportPrice\obj\Debug\net5.0\ref\PassportPrice.dll
