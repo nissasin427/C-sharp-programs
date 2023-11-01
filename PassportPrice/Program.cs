@@ -31,7 +31,7 @@ namespace PassportPrice
                 minimalPrice = n * 0.09;
             }
 
-            Console.WriteLine($"{minimalPrice:f2}");
+            Console.WriteLine($"{minimalPrice}");
 
         }
     }
